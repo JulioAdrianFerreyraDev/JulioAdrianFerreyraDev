@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioAdrianFerreyraDev
 - 👀 I’m interested in Back-end development and Mobile Application Programming.
-- 🌱 I’m currently learning Springboot, SwiftUI
+- 🌱 I’m currently learning Springboot (Kotlin and Java), Golang, .NET 
 - 📫 How to reach me: comming soon.
 - 😄 Pronouns: Helicopter
 - ⚡ Fun fact: I love cheesecake
