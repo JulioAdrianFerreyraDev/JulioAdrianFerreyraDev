@@ -19,7 +19,7 @@ Feel free to customize it further!
   <a href="mailto:jaft210403@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/julio-adrian-ferreyra-tello/">
+  <a href="https://www.linkedin.com/in/julio-adrian-ferreyra-tello-68a09b347">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
