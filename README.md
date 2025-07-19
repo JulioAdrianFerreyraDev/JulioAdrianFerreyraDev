@@ -115,7 +115,7 @@ Here are some of the technologies I work with:
 
 <details>
 <summary>
-  <strong>ARPAN ANALÍTICA | Backend & Mobile Intern (Aug 2024 – Present)</strong>
+  <strong>ARPAN ANALÍTICA | Backend & Mobile Intern (Aug 2024 – Jun 2025)</strong>
 </summary>
 
 - Integrated SDK functions for hardware component control in point-of-sale (POS) systems using **Kotlin**.
